@@ -22,7 +22,7 @@ For the test data, tweets relate to a few hashtags like #metoo, #dontcoveritup, 
 
 ## Model
 
-A logistic regression model is trained on train data and the used it to predict probabilities of tweets falling into six class labels like - toxic, severe toxic, identity hate, threat, insult, and obscene is predicted.
+A logistic regression model is trained on train data and then used it to predict probabilities of tweets (test data) in six class labels like - toxic, severe toxic, identity hate, threat, insult, and obscene. These predictions are compared with the text to see how effective the model is on new data.
 
 ## Conclusion & Results
 Identifying abuse from tweets is a difficult process as readily labelled tweets are not available and the manual labelling is a tiresome and time consuming process. The logistic regression model achieved an accuracy of 98.6% on the train data. It would have been great if the test data had some pre-labelled tweets to get the accuracy of predictions. It would be better to to include feature extraction based on other details of the tweet like origin, time of the tweet and employ different models for better model to filter abusive tweets. 
