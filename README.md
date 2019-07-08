@@ -18,9 +18,9 @@ CODE: *Toxicity Detection - Twitter.ipynb*
 ## Data
 For the test data, tweets relate to a few hashtags like #metoo, #dontcoveritup, #youknew, #lonely, #alone, #WhyIStayed”, #bodyshamming, #YouOKSis, #EverydaySexism has been collected using twitter API and by making use of Jefferson-Henrique/GetOldTweets-python project code for test data
 
-1. *The train data can be downloaded from the data page in the [Kaggle] competition.*
+1. *The train labels can be downloaded from the data page in the [Kaggle] competition.*
 
-2. *The data has been obtained for the time line starting 01-Jan-2017 to 31-Mar-2018, 1000 tweets each day containing the nine hashtags*
+2. *The tweets data has been obtained for the time line starting 01-Jan-2017 to 31-Mar-2018, 1000 tweets each day containing the nine hashtags*
 
 ## Model
 
