@@ -1,4 +1,4 @@
-# Toxic-Comment-Classification
+# Toxic-Tweet-Classification
 Toxic Comment Classification - on twitter data related to bullying
 
 *Related to [Kaggle] competition*
